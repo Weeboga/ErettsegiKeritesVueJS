@@ -7,7 +7,7 @@ az utcakep.txt állományt le kell menteni.
 Források az "src" mappában.
 
 ## netlify link a teszteléshez:
-https://agitated-torvalds-2495a4.netlify.com/
+https://rathboglarka-kerites-vue.netlify.com/
 
 
 ## Fejlesztői környezet kialakítása:
